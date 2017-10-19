@@ -4,8 +4,8 @@ Programming II Project
 
 Programming II Progress:
 
-Planning - Not Done
+Planning - Not Started
 
-Code - Not Done
+Code - Not Started
 
-Testing - Not Done
+Testing - Not Started
