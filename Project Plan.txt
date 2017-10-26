@@ -1,0 +1,16 @@
+create array fo 100 called doctor
+Array [name]
+		[doctor(timetable) number]
+		[contact address]
+		[preferred means of contact]
+		[medical discipline]
+		[date of last certification]
+		
+	Classes
+Read and Write Superclass
+Write and read to doctor file
+Read from availability update file
+
+Add doctor GUI class
+Button menu GUI class
+Doctor list GUI class
