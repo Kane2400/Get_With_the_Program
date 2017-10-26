@@ -1,4 +1,4 @@
-create array fo 100 called doctor
+Create 2D array for 100 called "Doctor"
 Array [name]
 		[doctor(timetable) number]
 		[contact address]
