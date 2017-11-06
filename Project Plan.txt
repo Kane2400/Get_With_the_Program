@@ -1,4 +1,4 @@
-Create 2D array for 100 called "Doctor"
+create array of 100 called doctor
 Array [name]
 		[doctor(timetable) number]
 		[contact address]
@@ -11,6 +11,15 @@ Read and Write Superclass
 Write and read to doctor file
 Read from availability update file
 
-Add doctor GUI class
-Button menu GUI class
-Doctor list GUI class
+//Add doctor GUI class
+//Button menu GUI class
+//Doctor list GUI class
+
+
+Doctor Class (including doctor list, add doctor, remove)
+GUI Class
+
+
+Home page type screen
+Can access any page from menu at the top (view, add, remove, help)
+Appointment Bookings
