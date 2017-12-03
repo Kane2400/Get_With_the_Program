@@ -6,6 +6,6 @@ Programming II Progress:
 
 Planning - Done
 
-Code - Mostly Done
+Code - Done bar green/red/grey boxes and report from No.12 from spec
 
-Testing - Not Started
+Testing - Everything coded thus far seems to work, including file i/o
