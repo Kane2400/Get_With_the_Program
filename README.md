@@ -6,6 +6,6 @@ Programming II Progress:
 
 Planning - Done
 
-Code - Done apart from a quit button
+Code - Just comments
 
 Testing - Everything coded thus far seems to work, including file i/o
